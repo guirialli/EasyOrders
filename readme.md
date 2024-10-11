@@ -28,7 +28,7 @@ Setup do Projeto
 1. Clone o repositório
    ```bash
    git clone https://github.com/guirialli/EasyOrders.git
-   cd Desafio-Endpoint-Get
+   cd EasyOrders
    ```
 2. Subir o banco de dados com Docker
    O Docker Compose será usado para subir um container com o MySQL configurado.
