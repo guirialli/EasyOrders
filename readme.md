@@ -27,7 +27,7 @@ GRAPHQL_SERVER_PORT=8080
 Setup do Projeto
 1. Clone o repositório
    ```bash
-   git clone https://github.com/guirialli/Desafio-Endpoint-Get.git
+   git clone https://github.com/guirialli/EasyOrders.git
    cd Desafio-Endpoint-Get
    ```
 2. Subir o banco de dados com Docker
